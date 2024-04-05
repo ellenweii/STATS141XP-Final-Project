@@ -12,3 +12,6 @@ An area that we frequently receive inquires about but have yet to create a dashb
 
 Course: UCLA STATS 141XP Winter 2024 
 
+Notes:
+- the data file on major enrollment is missing from this repository as it is too large (~265 MB)
+
