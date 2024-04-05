@@ -1,6 +1,8 @@
 # STATS141XP-Final-Project
 Major Minor Enrollment Dashboard
+
 Multiple Majors Awarded - A Look at Prevalence, Common Combinations, Retention Rate, and Time to Degree
+
 Client: Chancellor’s Office of Data Analytics (CODA)
 
   Client Request:
